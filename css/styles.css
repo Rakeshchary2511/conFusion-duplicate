@@ -18,7 +18,6 @@
 padding:70px 30px 70px 30px;
 margin:0px auto;
 background: #9575CD ;
-color:floralwhite;
 }
 
 address{
@@ -34,4 +33,8 @@ body{
 
 .navbar-dark {
     background-color: #512DA8;
+}
+
+.quote{
+    padding:10px 0px 0px 0px;
 }
